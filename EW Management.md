@@ -295,7 +295,7 @@ In the _Device Attributes_ section, a user can view and edit some additional att
 
 ####Device Inventory group
 
-In this section, all device's properties such as IP or MAC address, internal OS version, etc.
+In this section, all device's properties such as IP or MAC address and internal OS version are displayed.
 
 | Attribute       | Description |
 |:----------------|-------------|
